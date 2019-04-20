@@ -1,5 +1,5 @@
 <?php
-namespace stringEncode;
+namespace packages\stringEncode;
 
 class Encode {
 
